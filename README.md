@@ -53,8 +53,4 @@ CodeZack Coding Hub integrates with various APIs to deliver content efficiently,
 - **YouTube API**: To fetch and display video tutorials directly from the Code Zack YouTube channel.
 - **Payment Gateway**: For any premium courses offered on the platform.
 
-## Setup Instructions
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/codezack-hub/codezack-hub.git
